@@ -21,7 +21,15 @@ namespace CSharpFundamentals.Operators
 
             Console.ReadLine();
 
-          
+            /*
+            Output :
+            Postfix a++ is : 10
+            after increment a++ :11
+            Prefix increment ++a:12
+             
+             */
+
+
         }
     }
 }

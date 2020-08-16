@@ -7,7 +7,8 @@ namespace CSharpFundamentals
     {
         static void Main(string[] args)
         {
-            Increment.Execute();
+           // Increment.Execute();
+            Decrement.Execute();
         }
     }
 }
